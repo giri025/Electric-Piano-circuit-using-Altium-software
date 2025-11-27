@@ -1,4 +1,6 @@
 # Electric-Piano-circuit-using-Altium-software
+## Giri R
+## 212223060068
 # Exp-10--Design-a- Electric Piano-circuit-using-Altium-software-and-generate-the-Gerber-file.
 # AIM:
 To design the schematic and PCB layout diagram of an Electric Piano circui circuit using Altium software.
